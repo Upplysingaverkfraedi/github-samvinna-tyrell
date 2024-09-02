@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/GWrxNPYh)
 # Verkefnislýsing: Inngangur að Git og GitHub
 Markmið: Að læra grunnatriði Git og GitHub með því að vinna í hópi að einföldu verkefni. Í þessu verkefni munuð þið prófa helstu virkni Git, þar með talið að búa til greinar (branches), bæta við skrám, breyta skrám, eyða skrám, leysa úr árekstrum (merge conflicts), og framkvæma "pull request" sem hópmeðlimir yfirfara og samþykkja. Verkefnið er hannað þannig að það ætti að vera hægt að ljúka því innan kennslutímans.
 
